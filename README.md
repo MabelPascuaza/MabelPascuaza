@@ -1,6 +1,6 @@
 
 <h2 align="center">Hola a tod@s 😄 soy Mabel</h2>
-<h3 align="center">Una colombiana apasionada 💛👩‍💻 Estudiante de ingeniería electrónica | Desarrolladora de software | Desarrolladora SQL</h3>
+<h3 align="center">Una colombiana apasionada por la tecnología 💛👩‍💻 Estudiante de ingeniería electrónica | Desarrolladora de software | Desarrolladora SQL</h3>
 
 - 🌱 Aprendiendo sobre **Machine learning y Deep learning**
 
